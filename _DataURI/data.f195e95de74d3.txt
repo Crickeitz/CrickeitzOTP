@@ -1,0 +1,1 @@
+chrome-extension://fphgeikpdcdcheaochkhldmnfblfogla/fonts/inter-v20-latin-regular.woff2
